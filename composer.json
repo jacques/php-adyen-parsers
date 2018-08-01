@@ -1,0 +1,26 @@
+{
+    "name": "jacques/php-adyen-parsers",
+    "description": "Adyen Parsers for PHP",
+    "config": {
+        "optimize-autoloader": true,
+        "sort-packages": true
+    },
+    "require": {
+        "league/csv": "^8.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^7.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jacques\\Adyen\\Parsers": "src/"
+        }
+    },
+    "license": "MPL-2.0",
+    "authors": [
+        {
+            "name": "Jacques Marneweck",
+            "email": "jacques@powertrip.co.za"
+        }
+    ]
+}
