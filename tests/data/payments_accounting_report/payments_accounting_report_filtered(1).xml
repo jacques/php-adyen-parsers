@@ -1,0 +1,839 @@
+<?xml version="1.0"?>
+<report>
+  <title>Interactive payment accounting</title>
+    <dataset>
+	<title>Events</title>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING">8815333286430719</field>
+						<field title="Merchant Reference" type="STRING">73a68ef6-6f86-400b-a60b-8207568d7c2c</field>
+						<field title="Payment Method" type="STRING">visa</field>
+						<field title="Booking Date" type="DATE">2018-08-03 20:37:24</field>
+						<field title="TimeZone" type="DATE">UTC</field>
+						<field title="Main Currency" type="STRING">EUR</field>
+						<field title="Main Amount" type="NUMERIC">200.00</field>
+						<field title="Record Type" type="STRING">Received</field>
+						<field title="Payment Currency" type="STRING">EUR</field>
+						<field title="Received (PC)" type="NUMERIC">200.00</field>
+						<field title="Authorised (PC)" type="NUMERIC">0.00</field>
+						<field title="Captured (PC)" type="NUMERIC">0.00</field>
+						<field title="Settlement Currency" type="STRING"></field>
+						<field title="Payable (SC)" type="NUMERIC"></field>
+						<field title="Commission (SC)" type="NUMERIC"></field>
+						<field title="Markup (SC)" type="NUMERIC"></field>
+						<field title="Scheme Fees (SC)" type="NUMERIC"></field>
+						<field title="Interchange (SC)" type="NUMERIC"></field>
+						<field title="Processing Fee Currency" type="STRING">USD</field>
+						<field title="Processing Fee (FC)" type="NUMERIC">-0.10</field>
+						<field title="User Name" type="STRING">ws@Company.WayvGlobalLtd</field>
+						<field title="Payment Method Variant" type="STRING">visa</field>
+						<field title="Issuer Country" type="STRING">NL</field>
+						<field title="Shopper Country" type="STRING"></field>
+						<field title="Modification Merchant Reference" type="STRING"></field>
+						<field title="Settlement Batch" type="NUMERIC"></field>
+						<field title="Unique Terminal Id" type="STRING"></field>
+						<field title="Payable Booking Date" type="DATE"></field>
+								      </row>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING">8815333286430719</field>
+						<field title="Merchant Reference" type="STRING">73a68ef6-6f86-400b-a60b-8207568d7c2c</field>
+						<field title="Payment Method" type="STRING">visa</field>
+						<field title="Booking Date" type="DATE">2018-08-03 20:37:25</field>
+						<field title="TimeZone" type="DATE">UTC</field>
+						<field title="Main Currency" type="STRING">EUR</field>
+						<field title="Main Amount" type="NUMERIC">200.00</field>
+						<field title="Record Type" type="STRING">Refused</field>
+						<field title="Payment Currency" type="STRING">EUR</field>
+						<field title="Received (PC)" type="NUMERIC">-200.00</field>
+						<field title="Authorised (PC)" type="NUMERIC">0.00</field>
+						<field title="Captured (PC)" type="NUMERIC">0.00</field>
+						<field title="Settlement Currency" type="STRING"></field>
+						<field title="Payable (SC)" type="NUMERIC"></field>
+						<field title="Commission (SC)" type="NUMERIC"></field>
+						<field title="Markup (SC)" type="NUMERIC"></field>
+						<field title="Scheme Fees (SC)" type="NUMERIC"></field>
+						<field title="Interchange (SC)" type="NUMERIC"></field>
+						<field title="Processing Fee Currency" type="STRING"></field>
+						<field title="Processing Fee (FC)" type="NUMERIC"></field>
+						<field title="User Name" type="STRING">ws@Company.WayvGlobalLtd</field>
+						<field title="Payment Method Variant" type="STRING">visa</field>
+						<field title="Issuer Country" type="STRING">NL</field>
+						<field title="Shopper Country" type="STRING"></field>
+						<field title="Modification Merchant Reference" type="STRING"></field>
+						<field title="Settlement Batch" type="NUMERIC"></field>
+						<field title="Unique Terminal Id" type="STRING"></field>
+						<field title="Payable Booking Date" type="DATE"></field>
+								      </row>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING">8815334686530694</field>
+						<field title="Merchant Reference" type="STRING">73a68ef6-6f86-400b-a60b-8207568d7c2c</field>
+						<field title="Payment Method" type="STRING">mc</field>
+						<field title="Booking Date" type="DATE">2018-08-05 11:30:54</field>
+						<field title="TimeZone" type="DATE">UTC</field>
+						<field title="Main Currency" type="STRING">EUR</field>
+						<field title="Main Amount" type="NUMERIC">200.00</field>
+						<field title="Record Type" type="STRING">Received</field>
+						<field title="Payment Currency" type="STRING">EUR</field>
+						<field title="Received (PC)" type="NUMERIC">200.00</field>
+						<field title="Authorised (PC)" type="NUMERIC">0.00</field>
+						<field title="Captured (PC)" type="NUMERIC">0.00</field>
+						<field title="Settlement Currency" type="STRING"></field>
+						<field title="Payable (SC)" type="NUMERIC"></field>
+						<field title="Commission (SC)" type="NUMERIC"></field>
+						<field title="Markup (SC)" type="NUMERIC"></field>
+						<field title="Scheme Fees (SC)" type="NUMERIC"></field>
+						<field title="Interchange (SC)" type="NUMERIC"></field>
+						<field title="Processing Fee Currency" type="STRING">USD</field>
+						<field title="Processing Fee (FC)" type="NUMERIC">-0.10</field>
+						<field title="User Name" type="STRING">ws@Company.WayvGlobalLtd</field>
+						<field title="Payment Method Variant" type="STRING">mccredit</field>
+						<field title="Issuer Country" type="STRING">GB</field>
+						<field title="Shopper Country" type="STRING"></field>
+						<field title="Modification Merchant Reference" type="STRING"></field>
+						<field title="Settlement Batch" type="NUMERIC"></field>
+						<field title="Unique Terminal Id" type="STRING"></field>
+						<field title="Payable Booking Date" type="DATE"></field>
+								      </row>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING">8815334686530694</field>
+						<field title="Merchant Reference" type="STRING">73a68ef6-6f86-400b-a60b-8207568d7c2c</field>
+						<field title="Payment Method" type="STRING">mc</field>
+						<field title="Booking Date" type="DATE">2018-08-05 11:30:54</field>
+						<field title="TimeZone" type="DATE">UTC</field>
+						<field title="Main Currency" type="STRING">EUR</field>
+						<field title="Main Amount" type="NUMERIC">200.00</field>
+						<field title="Record Type" type="STRING">Authorised</field>
+						<field title="Payment Currency" type="STRING">EUR</field>
+						<field title="Received (PC)" type="NUMERIC">-200.00</field>
+						<field title="Authorised (PC)" type="NUMERIC">200.00</field>
+						<field title="Captured (PC)" type="NUMERIC">0.00</field>
+						<field title="Settlement Currency" type="STRING"></field>
+						<field title="Payable (SC)" type="NUMERIC"></field>
+						<field title="Commission (SC)" type="NUMERIC"></field>
+						<field title="Markup (SC)" type="NUMERIC"></field>
+						<field title="Scheme Fees (SC)" type="NUMERIC"></field>
+						<field title="Interchange (SC)" type="NUMERIC"></field>
+						<field title="Processing Fee Currency" type="STRING"></field>
+						<field title="Processing Fee (FC)" type="NUMERIC"></field>
+						<field title="User Name" type="STRING">ws@Company.WayvGlobalLtd</field>
+						<field title="Payment Method Variant" type="STRING">mccredit</field>
+						<field title="Issuer Country" type="STRING">GB</field>
+						<field title="Shopper Country" type="STRING"></field>
+						<field title="Modification Merchant Reference" type="STRING"></field>
+						<field title="Settlement Batch" type="NUMERIC"></field>
+						<field title="Unique Terminal Id" type="STRING"></field>
+						<field title="Payable Booking Date" type="DATE"></field>
+								      </row>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING">8815334686530694</field>
+						<field title="Merchant Reference" type="STRING">73a68ef6-6f86-400b-a60b-8207568d7c2c</field>
+						<field title="Payment Method" type="STRING">mc</field>
+						<field title="Booking Date" type="DATE">2018-08-05 11:31:05</field>
+						<field title="TimeZone" type="DATE">UTC</field>
+						<field title="Main Currency" type="STRING">EUR</field>
+						<field title="Main Amount" type="NUMERIC">200.00</field>
+						<field title="Record Type" type="STRING">SentForSettle</field>
+						<field title="Payment Currency" type="STRING">EUR</field>
+						<field title="Received (PC)" type="NUMERIC">0.00</field>
+						<field title="Authorised (PC)" type="NUMERIC">-200.00</field>
+						<field title="Captured (PC)" type="NUMERIC">200.00</field>
+						<field title="Settlement Currency" type="STRING"></field>
+						<field title="Payable (SC)" type="NUMERIC"></field>
+						<field title="Commission (SC)" type="NUMERIC"></field>
+						<field title="Markup (SC)" type="NUMERIC"></field>
+						<field title="Scheme Fees (SC)" type="NUMERIC"></field>
+						<field title="Interchange (SC)" type="NUMERIC"></field>
+						<field title="Processing Fee Currency" type="STRING"></field>
+						<field title="Processing Fee (FC)" type="NUMERIC"></field>
+						<field title="User Name" type="STRING">system</field>
+						<field title="Payment Method Variant" type="STRING">mccredit</field>
+						<field title="Issuer Country" type="STRING">GB</field>
+						<field title="Shopper Country" type="STRING"></field>
+						<field title="Modification Merchant Reference" type="STRING">&lt;auto&gt;</field>
+						<field title="Settlement Batch" type="NUMERIC"></field>
+						<field title="Unique Terminal Id" type="STRING"></field>
+						<field title="Payable Booking Date" type="DATE"></field>
+								      </row>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING">8815334686530694</field>
+						<field title="Merchant Reference" type="STRING">73a68ef6-6f86-400b-a60b-8207568d7c2c</field>
+						<field title="Payment Method" type="STRING">mc</field>
+						<field title="Booking Date" type="DATE">2018-08-06 04:16:56</field>
+						<field title="TimeZone" type="DATE">UTC</field>
+						<field title="Main Currency" type="STRING">EUR</field>
+						<field title="Main Amount" type="NUMERIC">196.50</field>
+						<field title="Record Type" type="STRING">Settled</field>
+						<field title="Payment Currency" type="STRING">EUR</field>
+						<field title="Received (PC)" type="NUMERIC">0.00</field>
+						<field title="Authorised (PC)" type="NUMERIC">0.00</field>
+						<field title="Captured (PC)" type="NUMERIC">-200.00</field>
+						<field title="Settlement Currency" type="STRING">EUR</field>
+						<field title="Payable (SC)" type="NUMERIC">196.50</field>
+						<field title="Commission (SC)" type="NUMERIC">0.00</field>
+						<field title="Markup (SC)" type="NUMERIC">1.20</field>
+						<field title="Scheme Fees (SC)" type="NUMERIC">0.40</field>
+						<field title="Interchange (SC)" type="NUMERIC">1.90</field>
+						<field title="Processing Fee Currency" type="STRING"></field>
+						<field title="Processing Fee (FC)" type="NUMERIC"></field>
+						<field title="User Name" type="STRING">system</field>
+						<field title="Payment Method Variant" type="STRING">mccredit</field>
+						<field title="Issuer Country" type="STRING">GB</field>
+						<field title="Shopper Country" type="STRING"></field>
+						<field title="Modification Merchant Reference" type="STRING">&lt;auto&gt;</field>
+						<field title="Settlement Batch" type="NUMERIC">1</field>
+						<field title="Unique Terminal Id" type="STRING"></field>
+						<field title="Payable Booking Date" type="DATE">2018-08-06 04:16:56</field>
+								      </row>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING">8525342570780987</field>
+						<field title="Merchant Reference" type="STRING">8b00ed97-25bb-4ce8-9286-d853dd78b57b</field>
+						<field title="Payment Method" type="STRING">visa</field>
+						<field title="Booking Date" type="DATE">2018-08-14 14:31:18</field>
+						<field title="TimeZone" type="DATE">UTC</field>
+						<field title="Main Currency" type="STRING">GBP</field>
+						<field title="Main Amount" type="NUMERIC">200.00</field>
+						<field title="Record Type" type="STRING">Received</field>
+						<field title="Payment Currency" type="STRING">GBP</field>
+						<field title="Received (PC)" type="NUMERIC">200.00</field>
+						<field title="Authorised (PC)" type="NUMERIC">0.00</field>
+						<field title="Captured (PC)" type="NUMERIC">0.00</field>
+						<field title="Settlement Currency" type="STRING"></field>
+						<field title="Payable (SC)" type="NUMERIC"></field>
+						<field title="Commission (SC)" type="NUMERIC"></field>
+						<field title="Markup (SC)" type="NUMERIC"></field>
+						<field title="Scheme Fees (SC)" type="NUMERIC"></field>
+						<field title="Interchange (SC)" type="NUMERIC"></field>
+						<field title="Processing Fee Currency" type="STRING">USD</field>
+						<field title="Processing Fee (FC)" type="NUMERIC">-0.10</field>
+						<field title="User Name" type="STRING">ws@Company.WayvGlobalLtd</field>
+						<field title="Payment Method Variant" type="STRING">visa</field>
+						<field title="Issuer Country" type="STRING">NL</field>
+						<field title="Shopper Country" type="STRING"></field>
+						<field title="Modification Merchant Reference" type="STRING"></field>
+						<field title="Settlement Batch" type="NUMERIC"></field>
+						<field title="Unique Terminal Id" type="STRING"></field>
+						<field title="Payable Booking Date" type="DATE"></field>
+								      </row>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING">8525342570780987</field>
+						<field title="Merchant Reference" type="STRING">8b00ed97-25bb-4ce8-9286-d853dd78b57b</field>
+						<field title="Payment Method" type="STRING">visa</field>
+						<field title="Booking Date" type="DATE">2018-08-14 14:31:19</field>
+						<field title="TimeZone" type="DATE">UTC</field>
+						<field title="Main Currency" type="STRING">GBP</field>
+						<field title="Main Amount" type="NUMERIC">200.00</field>
+						<field title="Record Type" type="STRING">Refused</field>
+						<field title="Payment Currency" type="STRING">GBP</field>
+						<field title="Received (PC)" type="NUMERIC">-200.00</field>
+						<field title="Authorised (PC)" type="NUMERIC">0.00</field>
+						<field title="Captured (PC)" type="NUMERIC">0.00</field>
+						<field title="Settlement Currency" type="STRING"></field>
+						<field title="Payable (SC)" type="NUMERIC"></field>
+						<field title="Commission (SC)" type="NUMERIC"></field>
+						<field title="Markup (SC)" type="NUMERIC"></field>
+						<field title="Scheme Fees (SC)" type="NUMERIC"></field>
+						<field title="Interchange (SC)" type="NUMERIC"></field>
+						<field title="Processing Fee Currency" type="STRING"></field>
+						<field title="Processing Fee (FC)" type="NUMERIC"></field>
+						<field title="User Name" type="STRING">ws@Company.WayvGlobalLtd</field>
+						<field title="Payment Method Variant" type="STRING">visa</field>
+						<field title="Issuer Country" type="STRING">NL</field>
+						<field title="Shopper Country" type="STRING"></field>
+						<field title="Modification Merchant Reference" type="STRING"></field>
+						<field title="Settlement Batch" type="NUMERIC"></field>
+						<field title="Unique Terminal Id" type="STRING"></field>
+						<field title="Payable Booking Date" type="DATE"></field>
+								      </row>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING">8525342572880520</field>
+						<field title="Merchant Reference" type="STRING">8b00ed97-25bb-4ce8-9286-d853dd78b57b</field>
+						<field title="Payment Method" type="STRING">visa</field>
+						<field title="Booking Date" type="DATE">2018-08-14 14:34:48</field>
+						<field title="TimeZone" type="DATE">UTC</field>
+						<field title="Main Currency" type="STRING">GBP</field>
+						<field title="Main Amount" type="NUMERIC">200.00</field>
+						<field title="Record Type" type="STRING">Received</field>
+						<field title="Payment Currency" type="STRING">GBP</field>
+						<field title="Received (PC)" type="NUMERIC">200.00</field>
+						<field title="Authorised (PC)" type="NUMERIC">0.00</field>
+						<field title="Captured (PC)" type="NUMERIC">0.00</field>
+						<field title="Settlement Currency" type="STRING"></field>
+						<field title="Payable (SC)" type="NUMERIC"></field>
+						<field title="Commission (SC)" type="NUMERIC"></field>
+						<field title="Markup (SC)" type="NUMERIC"></field>
+						<field title="Scheme Fees (SC)" type="NUMERIC"></field>
+						<field title="Interchange (SC)" type="NUMERIC"></field>
+						<field title="Processing Fee Currency" type="STRING">USD</field>
+						<field title="Processing Fee (FC)" type="NUMERIC">-0.10</field>
+						<field title="User Name" type="STRING">ws@Company.WayvGlobalLtd</field>
+						<field title="Payment Method Variant" type="STRING">visa</field>
+						<field title="Issuer Country" type="STRING">NL</field>
+						<field title="Shopper Country" type="STRING"></field>
+						<field title="Modification Merchant Reference" type="STRING"></field>
+						<field title="Settlement Batch" type="NUMERIC"></field>
+						<field title="Unique Terminal Id" type="STRING"></field>
+						<field title="Payable Booking Date" type="DATE"></field>
+								      </row>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING">8525342572880520</field>
+						<field title="Merchant Reference" type="STRING">8b00ed97-25bb-4ce8-9286-d853dd78b57b</field>
+						<field title="Payment Method" type="STRING">visa</field>
+						<field title="Booking Date" type="DATE">2018-08-14 14:34:49</field>
+						<field title="TimeZone" type="DATE">UTC</field>
+						<field title="Main Currency" type="STRING">GBP</field>
+						<field title="Main Amount" type="NUMERIC">200.00</field>
+						<field title="Record Type" type="STRING">Refused</field>
+						<field title="Payment Currency" type="STRING">GBP</field>
+						<field title="Received (PC)" type="NUMERIC">-200.00</field>
+						<field title="Authorised (PC)" type="NUMERIC">0.00</field>
+						<field title="Captured (PC)" type="NUMERIC">0.00</field>
+						<field title="Settlement Currency" type="STRING"></field>
+						<field title="Payable (SC)" type="NUMERIC"></field>
+						<field title="Commission (SC)" type="NUMERIC"></field>
+						<field title="Markup (SC)" type="NUMERIC"></field>
+						<field title="Scheme Fees (SC)" type="NUMERIC"></field>
+						<field title="Interchange (SC)" type="NUMERIC"></field>
+						<field title="Processing Fee Currency" type="STRING"></field>
+						<field title="Processing Fee (FC)" type="NUMERIC"></field>
+						<field title="User Name" type="STRING">ws@Company.WayvGlobalLtd</field>
+						<field title="Payment Method Variant" type="STRING">visa</field>
+						<field title="Issuer Country" type="STRING">NL</field>
+						<field title="Shopper Country" type="STRING"></field>
+						<field title="Modification Merchant Reference" type="STRING"></field>
+						<field title="Settlement Batch" type="NUMERIC"></field>
+						<field title="Unique Terminal Id" type="STRING"></field>
+						<field title="Payable Booking Date" type="DATE"></field>
+								      </row>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING">8815342580486467</field>
+						<field title="Merchant Reference" type="STRING">5ea91939-b1aa-441b-bcc8-18c0d55aa005</field>
+						<field title="Payment Method" type="STRING">visa</field>
+						<field title="Booking Date" type="DATE">2018-08-14 14:47:28</field>
+						<field title="TimeZone" type="DATE">UTC</field>
+						<field title="Main Currency" type="STRING">GBP</field>
+						<field title="Main Amount" type="NUMERIC">200.00</field>
+						<field title="Record Type" type="STRING">Received</field>
+						<field title="Payment Currency" type="STRING">GBP</field>
+						<field title="Received (PC)" type="NUMERIC">200.00</field>
+						<field title="Authorised (PC)" type="NUMERIC">0.00</field>
+						<field title="Captured (PC)" type="NUMERIC">0.00</field>
+						<field title="Settlement Currency" type="STRING"></field>
+						<field title="Payable (SC)" type="NUMERIC"></field>
+						<field title="Commission (SC)" type="NUMERIC"></field>
+						<field title="Markup (SC)" type="NUMERIC"></field>
+						<field title="Scheme Fees (SC)" type="NUMERIC"></field>
+						<field title="Interchange (SC)" type="NUMERIC"></field>
+						<field title="Processing Fee Currency" type="STRING">USD</field>
+						<field title="Processing Fee (FC)" type="NUMERIC">-0.10</field>
+						<field title="User Name" type="STRING">ws@Company.WayvGlobalLtd</field>
+						<field title="Payment Method Variant" type="STRING">visa</field>
+						<field title="Issuer Country" type="STRING">NL</field>
+						<field title="Shopper Country" type="STRING"></field>
+						<field title="Modification Merchant Reference" type="STRING"></field>
+						<field title="Settlement Batch" type="NUMERIC"></field>
+						<field title="Unique Terminal Id" type="STRING"></field>
+						<field title="Payable Booking Date" type="DATE"></field>
+								      </row>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING">8815342580486467</field>
+						<field title="Merchant Reference" type="STRING">5ea91939-b1aa-441b-bcc8-18c0d55aa005</field>
+						<field title="Payment Method" type="STRING">visa</field>
+						<field title="Booking Date" type="DATE">2018-08-14 14:47:29</field>
+						<field title="TimeZone" type="DATE">UTC</field>
+						<field title="Main Currency" type="STRING">GBP</field>
+						<field title="Main Amount" type="NUMERIC">200.00</field>
+						<field title="Record Type" type="STRING">Refused</field>
+						<field title="Payment Currency" type="STRING">GBP</field>
+						<field title="Received (PC)" type="NUMERIC">-200.00</field>
+						<field title="Authorised (PC)" type="NUMERIC">0.00</field>
+						<field title="Captured (PC)" type="NUMERIC">0.00</field>
+						<field title="Settlement Currency" type="STRING"></field>
+						<field title="Payable (SC)" type="NUMERIC"></field>
+						<field title="Commission (SC)" type="NUMERIC"></field>
+						<field title="Markup (SC)" type="NUMERIC"></field>
+						<field title="Scheme Fees (SC)" type="NUMERIC"></field>
+						<field title="Interchange (SC)" type="NUMERIC"></field>
+						<field title="Processing Fee Currency" type="STRING"></field>
+						<field title="Processing Fee (FC)" type="NUMERIC"></field>
+						<field title="User Name" type="STRING">ws@Company.WayvGlobalLtd</field>
+						<field title="Payment Method Variant" type="STRING">visa</field>
+						<field title="Issuer Country" type="STRING">NL</field>
+						<field title="Shopper Country" type="STRING"></field>
+						<field title="Modification Merchant Reference" type="STRING"></field>
+						<field title="Settlement Batch" type="NUMERIC"></field>
+						<field title="Unique Terminal Id" type="STRING"></field>
+						<field title="Payable Booking Date" type="DATE"></field>
+								      </row>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING">8525342586770725</field>
+						<field title="Merchant Reference" type="STRING">89d3b12b-349b-46b5-9a78-4b927108f780</field>
+						<field title="Payment Method" type="STRING">visa</field>
+						<field title="Booking Date" type="DATE">2018-08-14 14:57:57</field>
+						<field title="TimeZone" type="DATE">UTC</field>
+						<field title="Main Currency" type="STRING">GBP</field>
+						<field title="Main Amount" type="NUMERIC">200.00</field>
+						<field title="Record Type" type="STRING">Received</field>
+						<field title="Payment Currency" type="STRING">GBP</field>
+						<field title="Received (PC)" type="NUMERIC">200.00</field>
+						<field title="Authorised (PC)" type="NUMERIC">0.00</field>
+						<field title="Captured (PC)" type="NUMERIC">0.00</field>
+						<field title="Settlement Currency" type="STRING"></field>
+						<field title="Payable (SC)" type="NUMERIC"></field>
+						<field title="Commission (SC)" type="NUMERIC"></field>
+						<field title="Markup (SC)" type="NUMERIC"></field>
+						<field title="Scheme Fees (SC)" type="NUMERIC"></field>
+						<field title="Interchange (SC)" type="NUMERIC"></field>
+						<field title="Processing Fee Currency" type="STRING">USD</field>
+						<field title="Processing Fee (FC)" type="NUMERIC">-0.10</field>
+						<field title="User Name" type="STRING">ws@Company.WayvGlobalLtd</field>
+						<field title="Payment Method Variant" type="STRING">visa</field>
+						<field title="Issuer Country" type="STRING">NL</field>
+						<field title="Shopper Country" type="STRING"></field>
+						<field title="Modification Merchant Reference" type="STRING"></field>
+						<field title="Settlement Batch" type="NUMERIC"></field>
+						<field title="Unique Terminal Id" type="STRING"></field>
+						<field title="Payable Booking Date" type="DATE"></field>
+								      </row>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING">8525342586770725</field>
+						<field title="Merchant Reference" type="STRING">89d3b12b-349b-46b5-9a78-4b927108f780</field>
+						<field title="Payment Method" type="STRING">visa</field>
+						<field title="Booking Date" type="DATE">2018-08-14 14:57:57</field>
+						<field title="TimeZone" type="DATE">UTC</field>
+						<field title="Main Currency" type="STRING">GBP</field>
+						<field title="Main Amount" type="NUMERIC">200.00</field>
+						<field title="Record Type" type="STRING">Refused</field>
+						<field title="Payment Currency" type="STRING">GBP</field>
+						<field title="Received (PC)" type="NUMERIC">-200.00</field>
+						<field title="Authorised (PC)" type="NUMERIC">0.00</field>
+						<field title="Captured (PC)" type="NUMERIC">0.00</field>
+						<field title="Settlement Currency" type="STRING"></field>
+						<field title="Payable (SC)" type="NUMERIC"></field>
+						<field title="Commission (SC)" type="NUMERIC"></field>
+						<field title="Markup (SC)" type="NUMERIC"></field>
+						<field title="Scheme Fees (SC)" type="NUMERIC"></field>
+						<field title="Interchange (SC)" type="NUMERIC"></field>
+						<field title="Processing Fee Currency" type="STRING"></field>
+						<field title="Processing Fee (FC)" type="NUMERIC"></field>
+						<field title="User Name" type="STRING">ws@Company.WayvGlobalLtd</field>
+						<field title="Payment Method Variant" type="STRING">visa</field>
+						<field title="Issuer Country" type="STRING">NL</field>
+						<field title="Shopper Country" type="STRING"></field>
+						<field title="Modification Merchant Reference" type="STRING"></field>
+						<field title="Settlement Batch" type="NUMERIC"></field>
+						<field title="Unique Terminal Id" type="STRING"></field>
+						<field title="Payable Booking Date" type="DATE"></field>
+								      </row>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING">8835342587638744</field>
+						<field title="Merchant Reference" type="STRING">921375bb-1d70-4f3d-9bb3-a3e75cb1ca3b</field>
+						<field title="Payment Method" type="STRING">visa</field>
+						<field title="Booking Date" type="DATE">2018-08-14 14:59:23</field>
+						<field title="TimeZone" type="DATE">UTC</field>
+						<field title="Main Currency" type="STRING">GBP</field>
+						<field title="Main Amount" type="NUMERIC">200.00</field>
+						<field title="Record Type" type="STRING">Received</field>
+						<field title="Payment Currency" type="STRING">GBP</field>
+						<field title="Received (PC)" type="NUMERIC">200.00</field>
+						<field title="Authorised (PC)" type="NUMERIC">0.00</field>
+						<field title="Captured (PC)" type="NUMERIC">0.00</field>
+						<field title="Settlement Currency" type="STRING"></field>
+						<field title="Payable (SC)" type="NUMERIC"></field>
+						<field title="Commission (SC)" type="NUMERIC"></field>
+						<field title="Markup (SC)" type="NUMERIC"></field>
+						<field title="Scheme Fees (SC)" type="NUMERIC"></field>
+						<field title="Interchange (SC)" type="NUMERIC"></field>
+						<field title="Processing Fee Currency" type="STRING">USD</field>
+						<field title="Processing Fee (FC)" type="NUMERIC">-0.10</field>
+						<field title="User Name" type="STRING">ws@Company.WayvGlobalLtd</field>
+						<field title="Payment Method Variant" type="STRING">visa</field>
+						<field title="Issuer Country" type="STRING">NL</field>
+						<field title="Shopper Country" type="STRING"></field>
+						<field title="Modification Merchant Reference" type="STRING"></field>
+						<field title="Settlement Batch" type="NUMERIC"></field>
+						<field title="Unique Terminal Id" type="STRING"></field>
+						<field title="Payable Booking Date" type="DATE"></field>
+								      </row>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING">8835342587638744</field>
+						<field title="Merchant Reference" type="STRING">921375bb-1d70-4f3d-9bb3-a3e75cb1ca3b</field>
+						<field title="Payment Method" type="STRING">visa</field>
+						<field title="Booking Date" type="DATE">2018-08-14 14:59:23</field>
+						<field title="TimeZone" type="DATE">UTC</field>
+						<field title="Main Currency" type="STRING">GBP</field>
+						<field title="Main Amount" type="NUMERIC">200.00</field>
+						<field title="Record Type" type="STRING">Refused</field>
+						<field title="Payment Currency" type="STRING">GBP</field>
+						<field title="Received (PC)" type="NUMERIC">-200.00</field>
+						<field title="Authorised (PC)" type="NUMERIC">0.00</field>
+						<field title="Captured (PC)" type="NUMERIC">0.00</field>
+						<field title="Settlement Currency" type="STRING"></field>
+						<field title="Payable (SC)" type="NUMERIC"></field>
+						<field title="Commission (SC)" type="NUMERIC"></field>
+						<field title="Markup (SC)" type="NUMERIC"></field>
+						<field title="Scheme Fees (SC)" type="NUMERIC"></field>
+						<field title="Interchange (SC)" type="NUMERIC"></field>
+						<field title="Processing Fee Currency" type="STRING"></field>
+						<field title="Processing Fee (FC)" type="NUMERIC"></field>
+						<field title="User Name" type="STRING">ws@Company.WayvGlobalLtd</field>
+						<field title="Payment Method Variant" type="STRING">visa</field>
+						<field title="Issuer Country" type="STRING">NL</field>
+						<field title="Shopper Country" type="STRING"></field>
+						<field title="Modification Merchant Reference" type="STRING"></field>
+						<field title="Settlement Batch" type="NUMERIC"></field>
+						<field title="Unique Terminal Id" type="STRING"></field>
+						<field title="Payable Booking Date" type="DATE"></field>
+								      </row>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING">8815342587791943</field>
+						<field title="Merchant Reference" type="STRING">cbc09856-f760-4539-bbac-8c3d727023da</field>
+						<field title="Payment Method" type="STRING">visa</field>
+						<field title="Booking Date" type="DATE">2018-08-14 14:59:39</field>
+						<field title="TimeZone" type="DATE">UTC</field>
+						<field title="Main Currency" type="STRING">GBP</field>
+						<field title="Main Amount" type="NUMERIC">200.00</field>
+						<field title="Record Type" type="STRING">Received</field>
+						<field title="Payment Currency" type="STRING">GBP</field>
+						<field title="Received (PC)" type="NUMERIC">200.00</field>
+						<field title="Authorised (PC)" type="NUMERIC">0.00</field>
+						<field title="Captured (PC)" type="NUMERIC">0.00</field>
+						<field title="Settlement Currency" type="STRING"></field>
+						<field title="Payable (SC)" type="NUMERIC"></field>
+						<field title="Commission (SC)" type="NUMERIC"></field>
+						<field title="Markup (SC)" type="NUMERIC"></field>
+						<field title="Scheme Fees (SC)" type="NUMERIC"></field>
+						<field title="Interchange (SC)" type="NUMERIC"></field>
+						<field title="Processing Fee Currency" type="STRING">USD</field>
+						<field title="Processing Fee (FC)" type="NUMERIC">-0.10</field>
+						<field title="User Name" type="STRING">ws@Company.WayvGlobalLtd</field>
+						<field title="Payment Method Variant" type="STRING">visa</field>
+						<field title="Issuer Country" type="STRING">NL</field>
+						<field title="Shopper Country" type="STRING"></field>
+						<field title="Modification Merchant Reference" type="STRING"></field>
+						<field title="Settlement Batch" type="NUMERIC"></field>
+						<field title="Unique Terminal Id" type="STRING"></field>
+						<field title="Payable Booking Date" type="DATE"></field>
+								      </row>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING">8815342587791943</field>
+						<field title="Merchant Reference" type="STRING">cbc09856-f760-4539-bbac-8c3d727023da</field>
+						<field title="Payment Method" type="STRING">visa</field>
+						<field title="Booking Date" type="DATE">2018-08-14 14:59:40</field>
+						<field title="TimeZone" type="DATE">UTC</field>
+						<field title="Main Currency" type="STRING">GBP</field>
+						<field title="Main Amount" type="NUMERIC">200.00</field>
+						<field title="Record Type" type="STRING">Refused</field>
+						<field title="Payment Currency" type="STRING">GBP</field>
+						<field title="Received (PC)" type="NUMERIC">-200.00</field>
+						<field title="Authorised (PC)" type="NUMERIC">0.00</field>
+						<field title="Captured (PC)" type="NUMERIC">0.00</field>
+						<field title="Settlement Currency" type="STRING"></field>
+						<field title="Payable (SC)" type="NUMERIC"></field>
+						<field title="Commission (SC)" type="NUMERIC"></field>
+						<field title="Markup (SC)" type="NUMERIC"></field>
+						<field title="Scheme Fees (SC)" type="NUMERIC"></field>
+						<field title="Interchange (SC)" type="NUMERIC"></field>
+						<field title="Processing Fee Currency" type="STRING"></field>
+						<field title="Processing Fee (FC)" type="NUMERIC"></field>
+						<field title="User Name" type="STRING">ws@Company.WayvGlobalLtd</field>
+						<field title="Payment Method Variant" type="STRING">visa</field>
+						<field title="Issuer Country" type="STRING">NL</field>
+						<field title="Shopper Country" type="STRING"></field>
+						<field title="Modification Merchant Reference" type="STRING"></field>
+						<field title="Settlement Batch" type="NUMERIC"></field>
+						<field title="Unique Terminal Id" type="STRING"></field>
+						<field title="Payable Booking Date" type="DATE"></field>
+								      </row>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING">8815342588023890</field>
+						<field title="Merchant Reference" type="STRING">b2baea0d-54f4-4dec-b38c-adafa767c6d5</field>
+						<field title="Payment Method" type="STRING">visa</field>
+						<field title="Booking Date" type="DATE">2018-08-14 15:00:02</field>
+						<field title="TimeZone" type="DATE">UTC</field>
+						<field title="Main Currency" type="STRING">GBP</field>
+						<field title="Main Amount" type="NUMERIC">200.00</field>
+						<field title="Record Type" type="STRING">Received</field>
+						<field title="Payment Currency" type="STRING">GBP</field>
+						<field title="Received (PC)" type="NUMERIC">200.00</field>
+						<field title="Authorised (PC)" type="NUMERIC">0.00</field>
+						<field title="Captured (PC)" type="NUMERIC">0.00</field>
+						<field title="Settlement Currency" type="STRING"></field>
+						<field title="Payable (SC)" type="NUMERIC"></field>
+						<field title="Commission (SC)" type="NUMERIC"></field>
+						<field title="Markup (SC)" type="NUMERIC"></field>
+						<field title="Scheme Fees (SC)" type="NUMERIC"></field>
+						<field title="Interchange (SC)" type="NUMERIC"></field>
+						<field title="Processing Fee Currency" type="STRING">USD</field>
+						<field title="Processing Fee (FC)" type="NUMERIC">-0.10</field>
+						<field title="User Name" type="STRING">ws@Company.WayvGlobalLtd</field>
+						<field title="Payment Method Variant" type="STRING">visa</field>
+						<field title="Issuer Country" type="STRING">NL</field>
+						<field title="Shopper Country" type="STRING"></field>
+						<field title="Modification Merchant Reference" type="STRING"></field>
+						<field title="Settlement Batch" type="NUMERIC"></field>
+						<field title="Unique Terminal Id" type="STRING"></field>
+						<field title="Payable Booking Date" type="DATE"></field>
+								      </row>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING">8815342588023890</field>
+						<field title="Merchant Reference" type="STRING">b2baea0d-54f4-4dec-b38c-adafa767c6d5</field>
+						<field title="Payment Method" type="STRING">visa</field>
+						<field title="Booking Date" type="DATE">2018-08-14 15:00:02</field>
+						<field title="TimeZone" type="DATE">UTC</field>
+						<field title="Main Currency" type="STRING">GBP</field>
+						<field title="Main Amount" type="NUMERIC">200.00</field>
+						<field title="Record Type" type="STRING">Refused</field>
+						<field title="Payment Currency" type="STRING">GBP</field>
+						<field title="Received (PC)" type="NUMERIC">-200.00</field>
+						<field title="Authorised (PC)" type="NUMERIC">0.00</field>
+						<field title="Captured (PC)" type="NUMERIC">0.00</field>
+						<field title="Settlement Currency" type="STRING"></field>
+						<field title="Payable (SC)" type="NUMERIC"></field>
+						<field title="Commission (SC)" type="NUMERIC"></field>
+						<field title="Markup (SC)" type="NUMERIC"></field>
+						<field title="Scheme Fees (SC)" type="NUMERIC"></field>
+						<field title="Interchange (SC)" type="NUMERIC"></field>
+						<field title="Processing Fee Currency" type="STRING"></field>
+						<field title="Processing Fee (FC)" type="NUMERIC"></field>
+						<field title="User Name" type="STRING">ws@Company.WayvGlobalLtd</field>
+						<field title="Payment Method Variant" type="STRING">visa</field>
+						<field title="Issuer Country" type="STRING">NL</field>
+						<field title="Shopper Country" type="STRING"></field>
+						<field title="Modification Merchant Reference" type="STRING"></field>
+						<field title="Settlement Batch" type="NUMERIC"></field>
+						<field title="Unique Terminal Id" type="STRING"></field>
+						<field title="Payable Booking Date" type="DATE"></field>
+								      </row>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING">8815342588397666</field>
+						<field title="Merchant Reference" type="STRING">2e2a2253-f8ff-49c0-94a0-f5878a516ffe</field>
+						<field title="Payment Method" type="STRING">visa</field>
+						<field title="Booking Date" type="DATE">2018-08-14 15:00:39</field>
+						<field title="TimeZone" type="DATE">UTC</field>
+						<field title="Main Currency" type="STRING">GBP</field>
+						<field title="Main Amount" type="NUMERIC">200.00</field>
+						<field title="Record Type" type="STRING">Received</field>
+						<field title="Payment Currency" type="STRING">GBP</field>
+						<field title="Received (PC)" type="NUMERIC">200.00</field>
+						<field title="Authorised (PC)" type="NUMERIC">0.00</field>
+						<field title="Captured (PC)" type="NUMERIC">0.00</field>
+						<field title="Settlement Currency" type="STRING"></field>
+						<field title="Payable (SC)" type="NUMERIC"></field>
+						<field title="Commission (SC)" type="NUMERIC"></field>
+						<field title="Markup (SC)" type="NUMERIC"></field>
+						<field title="Scheme Fees (SC)" type="NUMERIC"></field>
+						<field title="Interchange (SC)" type="NUMERIC"></field>
+						<field title="Processing Fee Currency" type="STRING">USD</field>
+						<field title="Processing Fee (FC)" type="NUMERIC">-0.10</field>
+						<field title="User Name" type="STRING">ws@Company.WayvGlobalLtd</field>
+						<field title="Payment Method Variant" type="STRING">visa</field>
+						<field title="Issuer Country" type="STRING">NL</field>
+						<field title="Shopper Country" type="STRING"></field>
+						<field title="Modification Merchant Reference" type="STRING"></field>
+						<field title="Settlement Batch" type="NUMERIC"></field>
+						<field title="Unique Terminal Id" type="STRING"></field>
+						<field title="Payable Booking Date" type="DATE"></field>
+								      </row>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING">8815342588397666</field>
+						<field title="Merchant Reference" type="STRING">2e2a2253-f8ff-49c0-94a0-f5878a516ffe</field>
+						<field title="Payment Method" type="STRING">visa</field>
+						<field title="Booking Date" type="DATE">2018-08-14 15:00:39</field>
+						<field title="TimeZone" type="DATE">UTC</field>
+						<field title="Main Currency" type="STRING">GBP</field>
+						<field title="Main Amount" type="NUMERIC">200.00</field>
+						<field title="Record Type" type="STRING">Refused</field>
+						<field title="Payment Currency" type="STRING">GBP</field>
+						<field title="Received (PC)" type="NUMERIC">-200.00</field>
+						<field title="Authorised (PC)" type="NUMERIC">0.00</field>
+						<field title="Captured (PC)" type="NUMERIC">0.00</field>
+						<field title="Settlement Currency" type="STRING"></field>
+						<field title="Payable (SC)" type="NUMERIC"></field>
+						<field title="Commission (SC)" type="NUMERIC"></field>
+						<field title="Markup (SC)" type="NUMERIC"></field>
+						<field title="Scheme Fees (SC)" type="NUMERIC"></field>
+						<field title="Interchange (SC)" type="NUMERIC"></field>
+						<field title="Processing Fee Currency" type="STRING"></field>
+						<field title="Processing Fee (FC)" type="NUMERIC"></field>
+						<field title="User Name" type="STRING">ws@Company.WayvGlobalLtd</field>
+						<field title="Payment Method Variant" type="STRING">visa</field>
+						<field title="Issuer Country" type="STRING">NL</field>
+						<field title="Shopper Country" type="STRING"></field>
+						<field title="Modification Merchant Reference" type="STRING"></field>
+						<field title="Settlement Batch" type="NUMERIC"></field>
+						<field title="Unique Terminal Id" type="STRING"></field>
+						<field title="Payable Booking Date" type="DATE"></field>
+								      </row>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING">8525342588983912</field>
+						<field title="Merchant Reference" type="STRING">5399e14c-9059-4248-ae06-23dbe41e3878</field>
+						<field title="Payment Method" type="STRING">visa</field>
+						<field title="Booking Date" type="DATE">2018-08-14 15:01:38</field>
+						<field title="TimeZone" type="DATE">UTC</field>
+						<field title="Main Currency" type="STRING">GBP</field>
+						<field title="Main Amount" type="NUMERIC">200.00</field>
+						<field title="Record Type" type="STRING">Received</field>
+						<field title="Payment Currency" type="STRING">GBP</field>
+						<field title="Received (PC)" type="NUMERIC">200.00</field>
+						<field title="Authorised (PC)" type="NUMERIC">0.00</field>
+						<field title="Captured (PC)" type="NUMERIC">0.00</field>
+						<field title="Settlement Currency" type="STRING"></field>
+						<field title="Payable (SC)" type="NUMERIC"></field>
+						<field title="Commission (SC)" type="NUMERIC"></field>
+						<field title="Markup (SC)" type="NUMERIC"></field>
+						<field title="Scheme Fees (SC)" type="NUMERIC"></field>
+						<field title="Interchange (SC)" type="NUMERIC"></field>
+						<field title="Processing Fee Currency" type="STRING">USD</field>
+						<field title="Processing Fee (FC)" type="NUMERIC">-0.10</field>
+						<field title="User Name" type="STRING">ws@Company.WayvGlobalLtd</field>
+						<field title="Payment Method Variant" type="STRING">visa</field>
+						<field title="Issuer Country" type="STRING">NL</field>
+						<field title="Shopper Country" type="STRING"></field>
+						<field title="Modification Merchant Reference" type="STRING"></field>
+						<field title="Settlement Batch" type="NUMERIC"></field>
+						<field title="Unique Terminal Id" type="STRING"></field>
+						<field title="Payable Booking Date" type="DATE"></field>
+								      </row>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING">8525342588983912</field>
+						<field title="Merchant Reference" type="STRING">5399e14c-9059-4248-ae06-23dbe41e3878</field>
+						<field title="Payment Method" type="STRING">visa</field>
+						<field title="Booking Date" type="DATE">2018-08-14 15:01:39</field>
+						<field title="TimeZone" type="DATE">UTC</field>
+						<field title="Main Currency" type="STRING">GBP</field>
+						<field title="Main Amount" type="NUMERIC">200.00</field>
+						<field title="Record Type" type="STRING">Refused</field>
+						<field title="Payment Currency" type="STRING">GBP</field>
+						<field title="Received (PC)" type="NUMERIC">-200.00</field>
+						<field title="Authorised (PC)" type="NUMERIC">0.00</field>
+						<field title="Captured (PC)" type="NUMERIC">0.00</field>
+						<field title="Settlement Currency" type="STRING"></field>
+						<field title="Payable (SC)" type="NUMERIC"></field>
+						<field title="Commission (SC)" type="NUMERIC"></field>
+						<field title="Markup (SC)" type="NUMERIC"></field>
+						<field title="Scheme Fees (SC)" type="NUMERIC"></field>
+						<field title="Interchange (SC)" type="NUMERIC"></field>
+						<field title="Processing Fee Currency" type="STRING"></field>
+						<field title="Processing Fee (FC)" type="NUMERIC"></field>
+						<field title="User Name" type="STRING">ws@Company.WayvGlobalLtd</field>
+						<field title="Payment Method Variant" type="STRING">visa</field>
+						<field title="Issuer Country" type="STRING">NL</field>
+						<field title="Shopper Country" type="STRING"></field>
+						<field title="Modification Merchant Reference" type="STRING"></field>
+						<field title="Settlement Batch" type="NUMERIC"></field>
+						<field title="Unique Terminal Id" type="STRING"></field>
+						<field title="Payable Booking Date" type="DATE"></field>
+								      </row>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING">8535342589150691</field>
+						<field title="Merchant Reference" type="STRING">e546db3b-76bf-4e59-bb2c-2521f881a700</field>
+						<field title="Payment Method" type="STRING">visa</field>
+						<field title="Booking Date" type="DATE">2018-08-14 15:01:55</field>
+						<field title="TimeZone" type="DATE">UTC</field>
+						<field title="Main Currency" type="STRING">GBP</field>
+						<field title="Main Amount" type="NUMERIC">200.00</field>
+						<field title="Record Type" type="STRING">Received</field>
+						<field title="Payment Currency" type="STRING">GBP</field>
+						<field title="Received (PC)" type="NUMERIC">200.00</field>
+						<field title="Authorised (PC)" type="NUMERIC">0.00</field>
+						<field title="Captured (PC)" type="NUMERIC">0.00</field>
+						<field title="Settlement Currency" type="STRING"></field>
+						<field title="Payable (SC)" type="NUMERIC"></field>
+						<field title="Commission (SC)" type="NUMERIC"></field>
+						<field title="Markup (SC)" type="NUMERIC"></field>
+						<field title="Scheme Fees (SC)" type="NUMERIC"></field>
+						<field title="Interchange (SC)" type="NUMERIC"></field>
+						<field title="Processing Fee Currency" type="STRING">USD</field>
+						<field title="Processing Fee (FC)" type="NUMERIC">-0.10</field>
+						<field title="User Name" type="STRING">ws@Company.WayvGlobalLtd</field>
+						<field title="Payment Method Variant" type="STRING">visa</field>
+						<field title="Issuer Country" type="STRING">NL</field>
+						<field title="Shopper Country" type="STRING"></field>
+						<field title="Modification Merchant Reference" type="STRING"></field>
+						<field title="Settlement Batch" type="NUMERIC"></field>
+						<field title="Unique Terminal Id" type="STRING"></field>
+						<field title="Payable Booking Date" type="DATE"></field>
+								      </row>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING">8535342589150691</field>
+						<field title="Merchant Reference" type="STRING">e546db3b-76bf-4e59-bb2c-2521f881a700</field>
+						<field title="Payment Method" type="STRING">visa</field>
+						<field title="Booking Date" type="DATE">2018-08-14 15:01:56</field>
+						<field title="TimeZone" type="DATE">UTC</field>
+						<field title="Main Currency" type="STRING">GBP</field>
+						<field title="Main Amount" type="NUMERIC">200.00</field>
+						<field title="Record Type" type="STRING">Refused</field>
+						<field title="Payment Currency" type="STRING">GBP</field>
+						<field title="Received (PC)" type="NUMERIC">-200.00</field>
+						<field title="Authorised (PC)" type="NUMERIC">0.00</field>
+						<field title="Captured (PC)" type="NUMERIC">0.00</field>
+						<field title="Settlement Currency" type="STRING"></field>
+						<field title="Payable (SC)" type="NUMERIC"></field>
+						<field title="Commission (SC)" type="NUMERIC"></field>
+						<field title="Markup (SC)" type="NUMERIC"></field>
+						<field title="Scheme Fees (SC)" type="NUMERIC"></field>
+						<field title="Interchange (SC)" type="NUMERIC"></field>
+						<field title="Processing Fee Currency" type="STRING"></field>
+						<field title="Processing Fee (FC)" type="NUMERIC"></field>
+						<field title="User Name" type="STRING">ws@Company.WayvGlobalLtd</field>
+						<field title="Payment Method Variant" type="STRING">visa</field>
+						<field title="Issuer Country" type="STRING">NL</field>
+						<field title="Shopper Country" type="STRING"></field>
+						<field title="Modification Merchant Reference" type="STRING"></field>
+						<field title="Settlement Batch" type="NUMERIC"></field>
+						<field title="Unique Terminal Id" type="STRING"></field>
+						<field title="Payable Booking Date" type="DATE"></field>
+								      </row>
+  </dataset>
+</report>

@@ -1,0 +1,107 @@
+<?xml version="1.0"?>
+<report>
+  <title>Settlement details</title>
+    <dataset>
+	<title>Settlement</title>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING">8815334686530694</field>
+						<field title="Merchant Reference" type="STRING">73a68ef6-6f86-400b-a60b-8207568d7c2c</field>
+						<field title="Payment Method" type="STRING">mc</field>
+						<field title="Creation Date" type="DATE">2018-08-05 11:31:05</field>
+						<field title="TimeZone" type="STRING">UTC</field>
+						<field title="Type" type="STRING">Settled</field>
+						<field title="Modification Reference" type="STRING">8015334686650094</field>
+						<field title="Gross Currency" type="STRING">EUR</field>
+						<field title="Gross Debit (GC)" type="NUMERIC"></field>
+						<field title="Gross Credit (GC)" type="NUMERIC">200.00</field>
+						<field title="Exchange Rate" type="NUMERIC">1</field>
+						<field title="Net Currency" type="STRING">EUR</field>
+						<field title="Net Debit (NC)" type="NUMERIC"></field>
+						<field title="Net Credit (NC)" type="NUMERIC">196.50</field>
+						<field title="Commission (NC)" type="NUMERIC"></field>
+						<field title="Markup (NC)" type="NUMERIC">1.20</field>
+						<field title="Scheme Fees (NC)" type="NUMERIC">0.40</field>
+						<field title="Interchange (NC)" type="NUMERIC">1.90</field>
+						<field title="Payment Method Variant" type="STRING">mccredit</field>
+						<field title="Modification Merchant Reference" type="STRING">&lt;auto&gt;</field>
+						<field title="Batch Number" type="NUMERIC">1</field>
+																      </row>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING"></field>
+						<field title="Merchant Reference" type="STRING"></field>
+						<field title="Payment Method" type="STRING"></field>
+						<field title="Creation Date" type="DATE">2018-08-06 22:12:49</field>
+						<field title="TimeZone" type="STRING">UTC</field>
+						<field title="Type" type="STRING">Fee</field>
+						<field title="Modification Reference" type="STRING">Transaction Fees August    05 2018</field>
+						<field title="Gross Currency" type="STRING"></field>
+						<field title="Gross Debit (GC)" type="NUMERIC"></field>
+						<field title="Gross Credit (GC)" type="NUMERIC"></field>
+						<field title="Exchange Rate" type="NUMERIC"></field>
+						<field title="Net Currency" type="STRING">EUR</field>
+						<field title="Net Debit (NC)" type="NUMERIC">0.08</field>
+						<field title="Net Credit (NC)" type="NUMERIC"></field>
+						<field title="Commission (NC)" type="NUMERIC"></field>
+						<field title="Markup (NC)" type="NUMERIC"></field>
+						<field title="Scheme Fees (NC)" type="NUMERIC"></field>
+						<field title="Interchange (NC)" type="NUMERIC"></field>
+						<field title="Payment Method Variant" type="STRING"></field>
+						<field title="Modification Merchant Reference" type="STRING"></field>
+						<field title="Batch Number" type="NUMERIC">1</field>
+																      </row>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING"></field>
+						<field title="Merchant Reference" type="STRING"></field>
+						<field title="Payment Method" type="STRING"></field>
+						<field title="Creation Date" type="DATE">2018-08-06 22:12:49</field>
+						<field title="TimeZone" type="STRING">UTC</field>
+						<field title="Type" type="STRING">Fee</field>
+						<field title="Modification Reference" type="STRING">Transaction Fees August    03 2018</field>
+						<field title="Gross Currency" type="STRING"></field>
+						<field title="Gross Debit (GC)" type="NUMERIC"></field>
+						<field title="Gross Credit (GC)" type="NUMERIC"></field>
+						<field title="Exchange Rate" type="NUMERIC"></field>
+						<field title="Net Currency" type="STRING">EUR</field>
+						<field title="Net Debit (NC)" type="NUMERIC">0.08</field>
+						<field title="Net Credit (NC)" type="NUMERIC"></field>
+						<field title="Commission (NC)" type="NUMERIC"></field>
+						<field title="Markup (NC)" type="NUMERIC"></field>
+						<field title="Scheme Fees (NC)" type="NUMERIC"></field>
+						<field title="Interchange (NC)" type="NUMERIC"></field>
+						<field title="Payment Method Variant" type="STRING"></field>
+						<field title="Modification Merchant Reference" type="STRING"></field>
+						<field title="Batch Number" type="NUMERIC">1</field>
+																      </row>
+      <row>
+				<field title="Company Account" type="STRING">WayvGlobalLtd</field>
+						<field title="Merchant Account" type="STRING">WayvGlobalLtdCOM</field>
+						<field title="Psp Reference" type="STRING"></field>
+						<field title="Merchant Reference" type="STRING"></field>
+						<field title="Payment Method" type="STRING"></field>
+						<field title="Creation Date" type="DATE">2018-08-06 22:12:49</field>
+						<field title="TimeZone" type="STRING">UTC</field>
+						<field title="Type" type="STRING">Balancetransfer</field>
+						<field title="Modification Reference" type="STRING">Balancetransfer</field>
+						<field title="Gross Currency" type="STRING"></field>
+						<field title="Gross Debit (GC)" type="NUMERIC"></field>
+						<field title="Gross Credit (GC)" type="NUMERIC"></field>
+						<field title="Exchange Rate" type="NUMERIC"></field>
+						<field title="Net Currency" type="STRING">EUR</field>
+						<field title="Net Debit (NC)" type="NUMERIC">196.34</field>
+						<field title="Net Credit (NC)" type="NUMERIC"></field>
+						<field title="Commission (NC)" type="NUMERIC"></field>
+						<field title="Markup (NC)" type="NUMERIC"></field>
+						<field title="Scheme Fees (NC)" type="NUMERIC"></field>
+						<field title="Interchange (NC)" type="NUMERIC"></field>
+						<field title="Payment Method Variant" type="STRING"></field>
+						<field title="Modification Merchant Reference" type="STRING">Balancetransfer to batch 2</field>
+						<field title="Batch Number" type="NUMERIC">1</field>
+																      </row>
+  </dataset>
+</report>

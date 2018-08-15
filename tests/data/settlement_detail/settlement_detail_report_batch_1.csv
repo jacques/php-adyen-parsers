@@ -1,0 +1,5 @@
+Company Account,Merchant Account,Psp Reference,Merchant Reference,Payment Method,Creation Date,TimeZone,Type,Modification Reference,Gross Currency,Gross Debit (GC),Gross Credit (GC),Exchange Rate,Net Currency,Net Debit (NC),Net Credit (NC),Commission (NC),Markup (NC),Scheme Fees (NC),Interchange (NC),Payment Method Variant,Modification Merchant Reference,Batch Number,Reserved4,Reserved5,Reserved6,Reserved7,Reserved8,Reserved9,Reserved10
+WayvGlobalLtd,WayvGlobalLtdCOM,8815334686530694,73a68ef6-6f86-400b-a60b-8207568d7c2c,mc,2018-08-05 11:31:05,UTC,Settled,8015334686650094,EUR,,200.00,1,EUR,,196.50,,1.20,0.40,1.90,mccredit,<auto>,1,,,,,,,
+WayvGlobalLtd,WayvGlobalLtdCOM,,,,2018-08-06 22:12:49,UTC,Fee,Transaction Fees August    05 2018,,,,,EUR,0.08,,,,,,,,1,,,,,,,
+WayvGlobalLtd,WayvGlobalLtdCOM,,,,2018-08-06 22:12:49,UTC,Fee,Transaction Fees August    03 2018,,,,,EUR,0.08,,,,,,,,1,,,,,,,
+WayvGlobalLtd,WayvGlobalLtdCOM,,,,2018-08-06 22:12:49,UTC,Balancetransfer,Balancetransfer,,,,,EUR,196.34,,,,,,,Balancetransfer to batch 2,1,,,,,,,

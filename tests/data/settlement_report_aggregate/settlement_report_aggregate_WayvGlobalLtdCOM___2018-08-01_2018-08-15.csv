@@ -1,0 +1,6 @@
+Merchant/Company,Start date,End date,Aggregation,Country codes
+WayvGlobalLtdCOM,01/08/2018,15/08/2018,,
+Company Account,Merchant Account,Country Code,Store,Terminal ID,Batch Number,Batch Closed Date,Payment Method,Creation Date,TimeZone,Journal Type,Gross Currency,Gross Debit (GC),Gross Credit (GC),Exchange Rate,Net Currency,Net Debit (NC),Net Credit (NC),Bank/Card Commission (NC),DCC Markup (NC),Num Txs
+WayvGlobalLtd,WayvGlobalLtdCOM,GB,,,1,2018-08-07 00:12:49.39,mc,2018-08-05,CEST,Settled,EUR,,200.00,1.0,EUR,,196.50,3.50,,1
+WayvGlobalLtd,WayvGlobalLtdCOM,GB,,,1,2018-08-07 00:12:49.39,,2018-08-07,CEST,Balancetransfer,,,,1.0,EUR,196.34,,,,1
+WayvGlobalLtd,WayvGlobalLtdCOM,GB,,,1,2018-08-07 00:12:49.39,,2018-08-07,CEST,Fee,,,,1.0,EUR,0.16,,,,2
