@@ -1,0 +1,7 @@
+<?php declare(strict_types=1);
+/**
+ * Adyen Parsers for PHP
+ *
+ * @author    Jacques Marneweck <jacques@siberia.co.za>
+ * @copyright 2018-2019 Jacques Marneweck.  All rights strictly reserved.
+ */
